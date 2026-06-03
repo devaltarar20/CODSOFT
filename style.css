@@ -2,28 +2,7 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
-    font-family:Arial,sans-serif;
-}
-
-body{
-    background:#111;
-    color:white;
-}
-
-header{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    padding:20px 10%;
-    background:#000;
-}
-
-.logo{
-    font-size:28px;
-    font-weight:bold;
-    color:#ffb400;
-}
-
+    font-family:Arial,s
 nav a{
     color:white;
     text-decoration:none;
